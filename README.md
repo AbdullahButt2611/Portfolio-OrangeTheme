@@ -12,6 +12,13 @@ The project will mainly ontain the following sections
 - Contact
 <br>
 
+## Features
+- The project has been provided with an interactive navbar. In the small sreen, the navbar appears from the left side and a toggler functionality is enabled.
+- The section, the user is visiting will automatically be enabled in the navbar my making the color to be `#290f09`
+- The Portfolio allows the user to download the resume of the candidate.
+
+<br>
+
 ## Assets
 The assets details and the links to access those assets are as follows
 - ### Icons
