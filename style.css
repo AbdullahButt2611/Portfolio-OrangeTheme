@@ -101,7 +101,7 @@ img{
 }
 
 .section-title{
-    font: var(--h1-font-size);
+    font-size: var(--h1-font-size);
     color: var(--first-color);
     margin-bottom: var(--mb-3);
     text-align: center;
@@ -288,9 +288,120 @@ img{
 
 
 /* ===== ABOUT =====*/
+.about__container{
+    row-gap: 2rem;
+}
+
+.about__data{
+    text-align: center
+}
+
+
+.about__description{
+    margin-bottom: var(--mb-4);
+}
+
+.about__img{
+    width: 150px;
+    border-radius: 0.5rem;
+    margin: 0 auto;
+}
+
+.about__information{
+    margin-bottom: var(--mb-4);
+}
+
+.about__information-title{
+    font-size: var(--h3-font-size);
+    color: var(--first-color-dark);
+    margin-bottom: var(--mb-2);
+}
+
+.about__information-data{
+    display: flex;
+    align-items: center;
+    padding-left: 1.5;
+    margin-bottom: var(--mb-3);
+}
+
+.about__information-icon{
+    font-size: 1.5rem;
+    color: var(--first-color);
+    margin-right: var(--mb-4);
+}
+
+.about__information-subtitle{
+    display: block;
+    font-weight: var(--font-semi-bold);
+}
+
+.about__information-subtitle-small{
+    font-size: var(--small-font-size);
+}
 
 
 /* ===== SKILLS =====*/
+.skills__container{
+    row-gap: 2rem;
+}
+
+.skills__subtitle{
+    font-size: var(--h3-font-size);
+    color: var(--first-color-dark);
+    margin-bottom: var(--mb-2);
+}
+
+.skills__data{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 var(--mb-2);
+    margin-bottom: var(--mb-4);
+}
+
+.skills__name{
+    text-transform: uppercase;
+}
+
+.skills__bar{
+    position: absolute;
+    bottom: -0.75rem;
+    height: 0.25rem;
+    background-color: var(--first-color);
+}
+
+.skills__html{
+    width: 80%;
+}
+
+.skills__js{
+    width: 90%;
+}
+
+.skills__react{
+    width: 70%;
+}
+
+.skills__angular{
+    width: 60%;
+}
+
+.skills__php{
+    width: 80%;
+}
+
+.skills__node{
+    width: 70%;
+}
+
+.skills__firebase{
+    width: 90%;
+}
+
+.skills__python{
+    width: 60%;
+}
+
 
 
 /* ===== EDUCATION =====*/
