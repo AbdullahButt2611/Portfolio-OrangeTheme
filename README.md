@@ -17,6 +17,7 @@ The project will mainly ontain the following sections
 - The section, the user is visiting will automatically be enabled in the navbar my making the color to be `#290f09`
 - The Portfolio allows the user to download the resume of the candidate.
 - In the portfolio section on hover effect, there is an amazing effect of filling the container from bottom for providing the link to demo project.
+- In the Full length, the screen has a menu at the left and is ticked there. so it moves relatively to the page.
 
 <br>
 
