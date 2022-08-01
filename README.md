@@ -30,6 +30,29 @@ The assets details and the links to access those assets are as follows
  
  <br>
  
+ ## Demo
+ <br>
+ 
+ ## Link To Video
+<br> 
+
+## GUI
+
+![GUI Image](demo.png)
+
+<br>
+
+## Technology Stack
+Following Techologies have been used while creating this portfolio:
+- HTML
+- CSS
+- JavaScript
+<br>
+
+## Advancement
+Backend can be implemented to make it look amazing
+<br>
+ 
  ## Color Schemes
  - The background color should `#fffafa`
  - The navbar color should be `#CC4B2C`
